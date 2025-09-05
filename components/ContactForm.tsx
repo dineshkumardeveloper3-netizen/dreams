@@ -191,12 +191,12 @@ export default function ContactForm() {
             {/* Studio Image */}
             <div className="bg-gradient-to-b from-gray-900 to-black rounded-2xl overflow-hidden">
               <div className="relative h-64">
-                <Image
+{/*                 <Image
                   src="https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
                   alt="Dream Inks Tattoo Studio Interior"
                   fill
                   className="object-cover"
-                />
+                /> */}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                 <div className="absolute bottom-4 left-6">
                   <h3 className="font-heading text-xl font-bold text-white text-shadow">
